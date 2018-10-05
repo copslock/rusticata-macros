@@ -4,9 +4,9 @@ version = "0.5.0"
 description = "Helper macros for Rusticata"
 license = "MIT/Apache-2.0"
 keywords = ["parser","nom","serialize"]
-homepage = "https://github.com/rusticata/rusticata-macros"
-repository = "https://github.com/rusticata/rusticata-macros.git"
+homepage = "https://github.com/copslock/rusticata-macros"
+repository = "https://github.com/copslock/rusticata-macros.git"
 authors = ["Pierre Chifflier <chifflier@wzdftpd.net>"]
 
 [dependencies]
-nom = {version = "4.0"}
+nom = "4.0"
